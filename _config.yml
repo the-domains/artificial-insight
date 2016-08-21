@@ -1,0 +1,14 @@
+layout_spectrum: 0.48729890980757773
+typography_spectrum: 0.9179278921801597
+color:
+  brandStrength: 0.2852631974965334
+  lightness: 0.545541648985818
+  saturation: 0.02453088155016303
+  rhythmicContrast: 0.261453062761575
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: artificial insight
